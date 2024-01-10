@@ -1,0 +1,65 @@
+body {
+    background-color: #F2F2F2;
+    margin: 0;
+    font-family: 'Helvetica Neue';
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 500vh;
+
+}
+
+
+#ett {
+    display: flex;
+    height: 100%;
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    background-image: url(images/photo1.png);
+}
+
+#två {
+    display: flex;
+    height: 100%;
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    background-image: url(images/photo2.png);
+}
+
+#tre {
+    display: flex;
+    height: 100%;
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    background-image: url(images/photo3.png);
+}
+
+
+#fyra {
+    display: flex;
+    height: 100%;
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    background-image: url(images/photo4.png);
+}
+
+
+#fem {
+    display: flex;
+    height: 100%;
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    background-image: url(images/photo5.png);
+}
