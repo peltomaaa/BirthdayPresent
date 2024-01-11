@@ -11,6 +11,10 @@ body {
 
 }
 
+audio {
+    margin-top: 40px;
+}
+
 
 #ett {
     display: flex;

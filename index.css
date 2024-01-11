@@ -13,11 +13,15 @@ body {
 
 #presentAnimation {
     display: flex;
-    height: 600px;
+    height: 800px;
     width: 1000px;
     background-repeat: no-repeat;
     background-size: contain;
     cursor: pointer;
     background-image: url(images/present.png);
     transition: background-image 0.2s ease;
+}
+
+audio {
+    margin-top: 40px;
 }

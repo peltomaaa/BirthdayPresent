@@ -1,5 +1,7 @@
 const imageUrls = [
     'images/present.png',
+    'images/present.png',
+    'images/present.png',
     'images/present1.png',
     'images/present2.png',
     'images/present3.png',
@@ -13,6 +15,13 @@ const imageUrls = [
     'images/present11.png',
     'images/present12.png',
     'images/present13.png',
+    'images/present14.png',
+    'images/present14.png',
+    'images/present14.png',
+    'images/present14.png',
+    'images/present14.png',
+    'images/present14.png',
+    'images/present14.png',
     'images/present14.png',
 
 
